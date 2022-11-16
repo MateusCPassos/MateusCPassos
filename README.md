@@ -4,7 +4,7 @@ Olá! eu sou o Mateus 👋
 
 •🧑‍🎓Estudante de tecnologia em análise e desenvolvimento de sistemas
 
-•🧑‍💻	Estagiario
+•🧑‍💻	Estagiario no aceleração de carreiras
 
 
 <div align="center">
